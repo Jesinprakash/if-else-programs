@@ -1,0 +1,30 @@
+✅ 7. Age Group Categorizer
+Input age and print:
+•	"Child" if age < 13
+•	"Teenager" if age between 13–19
+•	"Adult" if age between 20–59
+•	"Senior" if age 60 or above
+________________________________________
+✅ 8. Check Multiple of 3 and 5
+Take a number and:
+•	Print “Fizz” if divisible by 3
+•	Print “Buzz” if divisible by 5
+•	Print “FizzBuzz” if divisible by both
+•	Otherwise print the number itself
+________________________________________
+✅ 9. Grade Calculator
+Input marks (0–100) and print grade:
+•	A: 90–100
+•	B: 80–89
+•	C: 70–79
+•	D: 60–69
+•	F: Below 60
+
+
+4. ATM Withdrawal Logic
+Create a program to simulate ATM withdrawal:
+•	If balance is less than ₹500, print "Insufficient balance"
+•	If balance is sufficient and withdrawal amount is multiple of 100, allow withdrawal
+•	Else print "Invalid amount: Only multiples of ₹100 allowed"
+Input: Balance and withdrawal amount
+Output: Result message

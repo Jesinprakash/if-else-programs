@@ -14,11 +14,45 @@ Take a string and remove all white spaces from it.
 Example:
 Input: "I am learning Python" → Output: "IamlearningPython"
 
-
-
-
-
 10.	Remove Duplicate Characters
 Remove duplicate characters from a string.
 Example:
 Input: "programming" → Output: "progamin"
+
+
+
+
+
+#string buildin fns
+len():
+# word="hello world"
+# print(len(word))
+
+#upper():
+# word="hello world"
+# print(word.upper())
+
+#lower():
+# word="hello world"
+# print(word.lower())
+#
+# title()
+# word="hello world"
+# print(word.title())
+# #
+# # capitalize():
+# word="hello world"
+# print(word.capitalize())
+
+#swapcase
+# word="hello world"
+# print(word.swapcase())
+
+#find
+# word="hello world"
+# print(word.find("h")) #*the find methode that returns index position of a element
+#                          * it returns -1 if the element is not found
+
+#index
+# word="hello world"
+# print(word.index("o"))

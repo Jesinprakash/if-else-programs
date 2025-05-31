@@ -1,0 +1,62 @@
+# # li=["jesin","prakash",123,1.7]
+# # print(li)
+# # print(type(li))
+#
+# # li=["jesin","prakash",123,1.7]
+# # print(li)
+# # li.append("messi")
+# # print(li)
+#
+# #insert():
+# # li=["jesin",7]
+# # li.insert(1,"messi")
+# # print(li)
+#
+# #extend
+# # li=["jesin",7]
+# # li2=[1,2,3]
+# # li.extend(li2)
+# # print(li)
+#
+# #pop()
+# # li=["jesin",7]
+# # li.pop()#this is used to remove last position
+# # print(li)
+#
+# # li=["jesin",7]
+# # li.pop(0)#this is used to delete positin
+# # print(li)
+#
+# #remove function
+#
+# # li = ["jesin", 7]
+# # li.remove(7)
+# # print(li)
+#
+# #reverse method
+#
+# # li = ["jesin", 7]
+# # li.reverse()
+# # print(li)
+#
+# #count
+#
+# li = ["jesin", 7]
+# print(li.count('jesin'))
+# #
+# # sort():#used to arringe assending order
+# name=["a","c","j","z","m"]
+# name.sort()
+# print(name)
+# #
+# # name=["a","c","j","z","m"]
+# # name.sort(reverse=True)#this is used to arringe desinding order
+# # print(name)
+#
+# # name=[1,2,3,4,5]
+# # print(name[::2])
+# # print(name[::-1])
+#
+# # name=["a","c","j","z","m"]
+# # print(name[::-1])
+#

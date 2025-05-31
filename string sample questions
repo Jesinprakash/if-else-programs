@@ -56,3 +56,50 @@ len():
 #index
 # word="hello world"
 # print(word.index("o"))
+
+
+
+
+
+# strip
+#it is used to remove whitespace from starting and ending of a string
+# word="     hello world      "
+# print(word.strip())
+# eg:
+# user=input("enter a name").strip()
+# if (user=="haii"):
+#     print("hello")
+
+#rstrip():used to remove space from right side of string
+
+
+#replace()
+# word="hello_world"
+# print(word.replace("world","welcome"))
+
+
+#string checking methods
+
+# isalnum():
+
+# isalpha()
+# isdigit()
+# istitle()
+# isupper()
+# islower()
+
+# user=input("enter a string")
+# print(user.isalnum())
+#
+# user=input("enter a string")
+# print(user.isdigit())
+
+# user=input("enter a string")
+# print(user.istitle())
+#
+# user=input("enter a string")
+# print(user.isupper())
+#
+# user=input("enter a string")
+# print(user.islower())
+

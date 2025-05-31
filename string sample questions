@@ -103,3 +103,13 @@ len():
 # user=input("enter a string")
 # print(user.islower())
 
+
+
+#slicing is done using index position
+
+# str="hello world"
+# print(str[0:5])
+# print(str[2:])
+# print(str[:6])
+# print(str[:])#all print
+# print(str[::-1])#used to reverse

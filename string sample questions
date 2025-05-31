@@ -1,0 +1,24 @@
+String questions
+1.	Reverse a String
+Write a program to reverse a string entered by the user.
+Example:
+Input: "hello" → Output: "olleh"
+2.	Check Palindrome
+Check if the input string is a palindrome (reads the same backward).
+Example:
+Input: "madam" → Output: True
+3.	Count Vowels and Consonants
+Count how many vowels and consonants are present in a given string.
+4.	Remove All Spaces
+Take a string and remove all white spaces from it.
+Example:
+Input: "I am learning Python" → Output: "IamlearningPython"
+
+
+
+
+
+10.	Remove Duplicate Characters
+Remove duplicate characters from a string.
+Example:
+Input: "programming" → Output: "progamin"

@@ -60,3 +60,30 @@
 # # name=["a","c","j","z","m"]
 # # print(name[::-1])
 #
+
+
+
+
+List sample questions
+ # li=['a','b','c','d']
+#
+# #find the length of a list without using len function?
+#
+# #find the sum of elements in the given list?
+# #num=[100,200,300,400]
+#
+# #wirte a program to find the count of numbers  and alphabets in the given list?
+# #li=['a','b',1,2,'c','d','3','4']
+
+#write a program to finfd the largest element in the given
+
+#find smallest
+
+#write a program to remove duplicate elemnets in the given list?
+
+#task 2
+# names=["akhil","arun","akshay"]S
+# #output
+# akhil:5
+# arun:4
+# akshya:6

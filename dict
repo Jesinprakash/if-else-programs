@@ -65,3 +65,18 @@
 input:1,2,3
 
 output:1:"odd",2:"even",3:"odd"
+
+
+
+#task
+# num{"b":2,"a":1,"d":4,"c":3}
+#write a program to sort dicionary
+# output:{"a":1,"b":2,"c":3,"d":4}
+
+
+
+
+
+
+
+

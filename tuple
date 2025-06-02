@@ -1,0 +1,21 @@
+# t=('a','b',1,1,2)
+# print(t)
+# print(type(t))
+
+#itration tuple
+
+# t=('a','b',1,1,2)
+# for i in t:
+#  print(i)
+
+#count methode
+# t=('a','b',1,1,2)
+# count=t.count(1)
+# print(count)#to count the repeat elements
+
+# slicing
+# t=('a','b',1,1,2)
+# print(t[::2])
+# print(t[:-1])
+# print(t[2:])
+# print(t[0:3])

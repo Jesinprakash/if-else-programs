@@ -1,0 +1,38 @@
+# dictionary={key:value,key:value,key:value}
+
+# person={"name":"jesin","age":24,"phone":9544753966}
+# print(person)
+# print(type(person))
+
+
+# person={"name":"jesin","age":24,"phone":9544753966}
+# print(person.keys()) #we need key=use .key function
+# print(person.values())#we need value=use .value function
+# print(person.items())#pair////////
+# print(person.get("name"))#it is used to acess values using key
+# print(len(person))
+
+#update:for using add new key value pair
+# person.update({"email":"jesinprakash@gmail.com"})
+# print(person)
+# person.update({"phone":1234567890})#updating existing key value pair
+# print(person)
+
+#without using update function
+
+# person["name"]="jessi"
+# print(person)
+# person["job"]="devloper"
+# print(person)
+
+# pop()method:it is used to delete key value pair
+
+# person.pop("age")
+# print(person)
+
+# popitem:it is used to last item from dictionary
+# person.popitem()
+# print(person)
+#
+# person["full name"]=person.pop("name")
+# print(person)

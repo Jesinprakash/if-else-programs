@@ -36,3 +36,32 @@
 #
 # person["full name"]=person.pop("name")
 # print(person)
+
+
+
+#dictionary itration
+
+# for i in person:
+#     print(i) #this only for keys
+
+# for i in person.values():#this only values
+#     print(i)
+#
+# for i,j in person.items():#used for print both key and value
+#     print(i,j)
+
+
+
+
+#write a program to create a dictionary using user input?
+
+# create dictionary of items
+#enter the no. pair
+#enter the element
+
+
+
+#create dictionay input by user?
+input:1,2,3
+
+output:1:"odd",2:"even",3:"odd"

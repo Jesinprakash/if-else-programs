@@ -1,0 +1,78 @@
+# # set:undorderd collection of data
+#
+#       #unindexed
+#
+#       #duplication not allowed
+#
+# # s={"a","b","c"}
+# # print(s)
+# # print(type(s))
+#
+# # set():constrecter
+#
+# # s.add("d")#add item in set using this
+# # print(s)
+#
+# # using set method remove duplications of given list
+# # li=["a","b","a","b","c"]
+# # li1=list(set(li))
+# # li1.sort()
+# # print(li1)
+# #
+# #
+# #write a program to creat a set of data input by user?
+# #
+# # num=int(input("enter the number of sets"))
+# # s=set()
+# # for i in range (num):
+# #     el=input("enter a element")
+# #     s.add(el)
+# # print(s)
+#
+# # pop():#to
+# # s={"a","b","c"}
+# # s.pop()
+# # print(s)
+#
+# #remove():used to remove using its name
+# # s={"a","b"}
+# # s.remove("a")
+# # print(s)
+#
+# # discard(): its is same as remove if the element is not present in a set it doesnt rises a erorr but in remove function raise a erro the element is not found.
+# # s={"a","b"}
+# # s.discard("x")
+# # print(s)
+#
+#
+# # update()
+# # s = {"a", "b"}
+# # s.update({"j","s","n"})
+# # print(s)
+# # s.update([1,2,3])
+# # print(s)
+# # s.update((4,5,6))
+# # print(s)
+#
+# #intersection_update():it is used to take common element the given list
+# x={"a","b","c"}
+# y={"a","d","e"}
+# x.intersection_update(y)
+# print(x)
+#
+# #symmetric,difference,update()
+# x={"a","b","c"}
+# y={"a","d","e"}
+# x.symmetric_difference_update(y)
+# print(x)
+#
+# #union:
+# a={1,2,3}
+# b={1,4,5,6}
+# c=a.union(b)
+# print(c)
+#
+# a={"a","b","c"}
+# b={"a","e","d"}
+# c=a.union(b)
+# print(c)

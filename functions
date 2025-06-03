@@ -76,3 +76,16 @@
 #max value?
 
 
+
+
+#default argument:
+#default arguments are values that will be used if no arguments passed into function during function call
+
+# def add(a,b,c=0):
+#     print(a+b+c)
+# add(1,2)
+# add(1,2,3)
+
+#create a function largest using default argument?
+
+

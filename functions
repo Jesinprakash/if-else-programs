@@ -1,0 +1,31 @@
+# def first():
+#     print("welcome python")
+# first()
+
+# def add():
+#     a=int(input("enter a "))
+#     b=int(input("enter b "))
+#     print(a+b)
+
+
+#find area of circle using function
+#find area of trianle using function
+
+# def area():
+#     a=int(input("enter the number"))
+#     print(3.14*a**2)
+# area()
+
+# def area():
+#     b=int(input("enter the base"))
+#     h=int(input("enter the height"))
+#     print(1/2*b*h)
+# area()
+
+#function with arguments or parameters:
+# arguments are values that are passed in to a function during function calling
+#1:position argument
+#2:arbitary argument
+#3:default argument
+#4:keyord argument
+#5:arbitary keyword arguments

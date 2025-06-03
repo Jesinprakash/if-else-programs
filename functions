@@ -127,3 +127,28 @@
 # ["a","a","b","b"]
 # output["a","b"]
 
+
+
+
+
+
+# x=lambda a,b:a+b
+# print(x(1,2))
+
+#1.find the square root of number passing into lambda function?
+#2.find cube of a number?
+#3.area of a triangle?
+#4.area of circle?
+
+# #find square root
+# x=lambda a:(a)**0.5
+# print(x(3))
+# # find cube
+# cube=lambda a:(a)**3
+# print(cube(3))
+# #area of circle
+# c=lambda r:3.14*r*r
+# print(c(3))
+# #area of triangle
+# l=lambda b,h:(1/2)*b*h
+# print(l(2,3))

@@ -54,3 +54,25 @@
 #create a function check a number is palindrom or not?
 
 #remove vowels from a string passing into a function?
+
+
+
+
+
+#arbitary argument:
+#if you dont no how many arguments that are passed in to a function add star before the argument
+# def add(*num):
+#     sum=0
+#     for i in num: #here the num is tupple
+#         sum+=i
+#     print(sum)
+# add(1,2,3)
+
+
+#create function product with arbitory argument?
+
+#create a fn min_value()
+
+#max value?
+
+

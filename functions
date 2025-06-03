@@ -89,3 +89,22 @@
 #create a function largest using default argument?
 
 
+
+#keyword argument:
+#keyword arguments values that when passed in to a function are identifiable by specific perameter name.
+
+    # def name(fname,lname,mname):
+#     print("firstname=",fname,"lastname=",lname,"middlename=",mname)
+# name(fname="jesin",lname="prakash",mname="c")
+
+
+
+# def reg(**kwargs):
+#
+#     for i,j in kwargs.items():
+#
+#         print(i,"=",j)
+#
+# reg(name="jesin",age=24)
+
+

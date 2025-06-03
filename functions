@@ -20,3 +20,37 @@
 #3:default argument
 #4:keyord argument
 #5:arbitary keyword arguments
+
+
+
+#positional argument:
+#they are values passing into a function based on possition based on position.
+
+# def add(a,b):
+#     print(a+b)
+# add(1,2)
+# add(100,200)
+#
+
+#create a function circle and pass radius as argument find area?
+
+# def radius(a):
+#     print(3.14*a**2)
+# radius(2)
+#
+
+
+
+
+
+#1.creat a function multiplication with a single possition argument and genarate multiplication table of a number?
+
+#2.find factorial of a number passing into a function?
+
+#3.find the lagest of 3 number passing into function?
+
+#4.find reverse of a string passing into function?
+
+#create a function check a number is palindrom or not?
+
+#remove vowels from a string passing into a function?

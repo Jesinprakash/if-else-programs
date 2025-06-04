@@ -57,5 +57,11 @@
 
 
 
+#write a program to filter out even numbers from the given list?
+
+# li=[1,2,3,4,5,6,7]
+# x=list(filter(lambda i:i%2==0,li))
+# print(x)
+
 
 

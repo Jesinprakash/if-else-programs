@@ -49,6 +49,11 @@
 
 
 
+# li=[1,2,3]
+# x=reduce(lambda a,b:a+b,li)
+# print(x)
+
+
 
 
 

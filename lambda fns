@@ -28,6 +28,23 @@
 
 
 
+#map
+
+# li=[1,2,3,4]
+#find the square of each elements in the given list using lambda?
+
+# li=[1,2,3,4]
+# x=list(map(lambda i:i**2,li ))
+# print(x)
+
+
+#find the reverse of each string in  a given list using lambda?
+
+
+#mapping 2 list
+
+# li1=[1,2,3]
+# li2=[4,5,6]
 
 
 

@@ -64,4 +64,12 @@
 # print(x)
 
 
+#["a","b",1,2]
+#filter out alphabets from the above list
+
+#2.["a","e","i","o","u"]
+#filter out vowels
+
+#3.[1,2,3,4,5,6,7]
+#filter number  whic are divisible by 2 not by 3?
 

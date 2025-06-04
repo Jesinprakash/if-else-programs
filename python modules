@@ -10,8 +10,7 @@ import math
 # print(d)
 # e=math.floor(10.5)
 # print(e)
-# f=math.ceil(10.5)
-# print(f)
+
 #
 # # help(math)
 #

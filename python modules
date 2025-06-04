@@ -1,0 +1,162 @@
+# #math module
+import math
+# a=math.factorial(5)
+# print(a)
+# b=math.sqrt(25)
+# print(b)
+# c=math.sin(1)
+# print(c)
+# d=math.pow(2,3)
+# print(d)
+# e=math.floor(10.5)
+# print(e)
+# f=math.ceil(10.5)
+# print(f)
+#
+# # help(math)
+#
+# #find the area of circle?
+# r=int(input("enter the area"))
+# area=math.pi*r**2
+# print(area)
+import calendar
+
+#calendar
+
+import calendar
+# year=int(input("enter year"))
+# month=int(input("enter month"))
+# a=calendar.month(year,month)
+# print(a)
+
+# year=int(input("enter year"))
+# a=calendar.calendar(year)
+# print(a)
+
+# year=int(input("enter year"))
+# a=calendar.isleap(year)
+# print(a)
+
+# year=int(input("enter year"))
+# c=calendar.TextCalendar(calendar.SUNDAY)
+# print(c.formatyear(year))
+
+# year=int(input("enter year"))
+# c=calendar.TextCalendar(calendar.SUNDAY)
+# print(c.formatmonth(year,12))
+#
+
+#time =out put is in tuple
+
+import time
+# l=time.localtime()
+# print(l)
+
+# l=time.localtime()
+# print("year=",l.tm_year)
+# print("month=",l.tm_mon)
+# print("day=",l.tm_mday)
+# print("weekday",l.tm_wday)
+# print("year day=",l.tm_yday)
+
+
+# b=time.asctime()
+# print(b)
+
+#sleep():it is used to add a delay in the exicution of a program.
+# print("hello")
+# time.sleep(2.5)
+# print("this print after 2.5 seconds")
+
+#strtime(): string format time
+# %A=day,%B=month,%d=date,%D=complete date,%Y=year,%M=min,%S=sec,%H=hour,%M=month
+
+# a=time.strftime("%A")
+# print(a)
+# a=time.strftime("%B")
+# print(a)
+# a=time.strftime("%d")
+# print(a)
+# a=time.strftime("%D")
+# print(a)
+# a=time.strftime("%Y")
+# print(a)
+# a=time.strftime("%M")
+# print(a)
+# a=time.strftime("%H")
+# print(a)
+# a=time.strftime("%M")
+# print(a)
+
+#custamization
+
+# a=time.strftime("%A %Y %B %d")
+# print(a)
+#
+
+#datetime
+#pthon datetime module supplies classes to work with date time .
+#these classes provide a number of function to deal with dates ,times and time intervels
+
+# date()
+
+import datetime
+
+# year=int(input("enter year"))
+# month=int(input("enter month"))
+# day=int(input("enter day"))
+# mydate=datetime.date(year,month,day)
+# print(mydate)
+# print(type(mydate))
+
+#today()
+
+today=datetime.date.today()#only date
+print(today)
+#
+print("current year:",today.year)#year
+# print("curent month:",today.month)#month
+# print("current day:",today.day)#day
+
+# today=datetime.datetime.now()#print both date and time
+# print(today)
+
+# from datetime import timedelta
+# d=datetime.date.today()
+# d+=timedelta(days=100)#after 100 days date
+# print(d)
+#
+# from datetime import timedelta
+# d=datetime.date.today()
+# d-=timedelta(days=100)#before 100 days date
+# print(d)
+#
+
+#random :python random module is an inbuilt module which used to genarate numbers or datas
+
+
+import random
+# l=[1,2,3,4,5]
+# print(random.choice(l))
+# ucl=["real","bayern","psg","dortumund"]
+# print(random.choice(ucl))
+
+
+#randint():it is used to select random integers btwn the  given range
+
+# r1=random.randint(100,200)
+# print(r1)
+# random.uniform():it is used to select random float numbers from the given range
+
+# r1=random.uniform(10,20)
+# print(r1)
+
+#shuffle(): it is used to shuffle a list of elements
+
+# l=[1,2,3,4]
+# random.shuffle(l)
+# print(l)
+
+
+#os module:
+# os module in pyhton that is used to intract with the operating system

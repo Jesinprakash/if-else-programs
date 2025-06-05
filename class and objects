@@ -65,6 +65,20 @@
 
 
 
+# class vehicle:
+#     def __init__(self,name,regno,model,price):
+#         self.name=name
+#         self.regno=regno
+#         self.model=model
+#         self.price=price
+#     def desplay(self):
+#         print("vehiclename=",self.name)
+#         print("register no.=",self.regno)
+#         print("model=",self.model)
+#         print("price=",self.price)
+# x= vehicle("jawa",79,1967,150000)
+# x.desplay()
+
 
 
 

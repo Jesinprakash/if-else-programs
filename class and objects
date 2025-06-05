@@ -1,0 +1,53 @@
+# class hello:
+#     def first(self):
+#         print("welcome to oops concept")
+# obj=hello()
+# obj.first()
+
+#create a class maths with functions add,sub,mul,div with 2 arguments?
+
+# class maths:
+#     def add(self,a,b):
+#         print(a+b)
+#     def sub(self,a,b):
+#         print(a-b)
+#     def mul(self,a,b):
+#         print(a*b)
+#     def div(self,a,b):
+#         print(a/b)
+# x=maths()
+# x.add(5,5)
+# x=maths()
+# x.mul(10,5)
+# x=maths()
+# x.div(10,2)
+# x=maths()
+# x.sub(10,3)
+
+class solution:
+    def countthestring(self,inp_string):
+        string_length=0
+        for i in inp_string:
+            string_length+=1
+        return string_length
+x=solution()
+print(x.countthestring("hello"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

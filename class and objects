@@ -85,6 +85,22 @@
 
 
 
+#create a class employee with
+# static variable :companyname,company email,location
+#create_employee(name,salary,designation,phone)
+#display()
+
+
+
+# create class product using constructor
+#static : ecomerce=flipkart
+#product name,price,quantity
+
+# display fuction:productname price quantity,total amount,order date
+# delivery details():productname,price,estimate delivery date.
+
+
+
 
 
 

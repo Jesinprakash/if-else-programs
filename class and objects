@@ -105,3 +105,30 @@
 
 
 
+# class company: #using constructor
+#     def __init__(self,company_name,company_loaction):
+#         self.company_name=company_name
+#         self.company_location=company_loaction
+#     def company_dipaly(self):
+#         print("company name=",self.company_name)
+#         print("company location=",self.company_location)
+#         print()
+# class employee(company):
+#     def __init__(self,company_name,company_location,ename,eid,email):
+#         super().__init__(company_name,company_location)
+#         self.ename=ename
+#         self.eid=eid
+#         self.email=email
+#     def employee_dispaly(self):
+#         print("employee name=",self.ename)
+#         print("employee id=",self.eid)
+#         print("email=",self.email)
+#         print("company name=",self.company_name)
+#         print("company_location=",self.company_location)
+#         print()
+# obj=employee("tcs","kakkanad","jesin",790,"jesin@gmail.com")
+# obj.employee_dispaly()
+# obj.company_dipaly()
+
+
+

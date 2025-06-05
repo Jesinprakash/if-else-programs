@@ -24,14 +24,38 @@
 # x=maths()
 # x.sub(10,3)
 
-class solution:
-    def countthestring(self,inp_string):
-        string_length=0
-        for i in inp_string:
-            string_length+=1
-        return string_length
-x=solution()
-print(x.countthestring("hello"))
+
+
+# class laptop:
+#     def setvalue(self,brand_name,ram,processor,color):
+          #self . is used for make the data public
+#         self.brand=brand_name
+#         self.ram=ram
+#         self.processor=processor
+#         self.color=color
+#     def printvalue(self):
+#         print("brand",self.brand)
+#         print("ram",self.ram)
+#         print("processor",self.processor)
+#         print("color",self.color)
+# obj=laptop()
+# obj.setvalue("hp","8gb","inetl","white")
+# obj.printvalue()
+
+
+
+
+
+
+#create class student with method
+
+# student_details():id,name,department,maths,physics,chemistry
+
+#total mark(): math+pysics+chem
+
+# dispaly()
+
+# create 3 student objects
 
 
 

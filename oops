@@ -13,7 +13,21 @@
 
 
 
-
+class person:
+    def __init__(self,name,salary,project):
+        self.name=name
+        self.__salary=salary
+        self.__project=project
+    def __display(self):
+        print("name=",self.name)
+        print("salary=",self.__salary)
+        print("project=",self.__project)
+obj=person("jesin",10000000000,"ecomerce")
+print(obj.name)
+print(obj._person__salary)
+print(obj._person__project)
+obj._person__display()
+#name mangling-is a methode used to access privet variables
 
 
 

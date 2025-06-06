@@ -2,3 +2,11 @@
 # #samsung--> name
 # #galaxy-->year,speed
 # #with using constructor ,without using constructor
+
+
+
+#datas: name,gender,phone number
+
+#doctor(datas): hospital_name,specialisation
+
+#egineer(datas):comany_name,designation

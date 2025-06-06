@@ -10,3 +10,60 @@
 #doctor(datas): hospital_name,specialisation
 
 #egineer(datas):comany_name,designation
+
+
+
+
+
+
+
+
+
+
+#encapsulation
+#encapsulation is one of the fundamental concepts in oops .
+# it describe the idea of warpping data and the methods
+#this puts restrictions on accessing variables and methods directly
+#it can prevent the accidental modifation of data
+
+#acces modifiers:
+# in object oriented programing access modifier are used to limit the access to the variable and function of a class
+
+#public access modifiers:accessible anywhere from the class
+
+#private access modifiers :accesible withinthe class
+
+#protected access modifiers:accessilbe withinthe class and its sub class
+
+
+#sytanx
+
+# class encapsulation:
+#     def __init__(self,name,salary,project):
+#         self.name=name#public data number
+#         self.__salary=salary#privete data number
+#         self._project=project#protected data
+#     def __dispaly(self):
+
+
+# class person:
+#     def __init__(self,name,salary,project):
+#         self.name=name
+#         self.salary=salary
+#         self.project=project
+#     def display(self):
+#         print("name=",self.name)
+#         print("salary=",self.salary)
+#         print("project=",self.project)
+# obj=person("jesin",3000000,"ecomerce")
+# obj.display()#public accessing of function
+#
+# print(obj.name)  #public accessing of variables
+# print(obj.salary)
+# print(obj.project)
+#
+# obj.name="messi"
+# obj.salary=1000000000
+# obj.project="newproject"
+#
+# obj.display()
